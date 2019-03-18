@@ -5,5 +5,3 @@ def square_array(array)
   end
   puts array_new
 end
-
-square_array([1,2,3])
